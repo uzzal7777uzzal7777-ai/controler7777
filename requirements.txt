@@ -1,0 +1,4 @@
+python-telegram-bot[job-queue]==21.10
+aiomysql==0.2.0
+cryptography>=43.0.1
+aiohttp==3.11.11
